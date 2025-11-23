@@ -1,6 +1,6 @@
-# 🎭 Core AWS Service Analogies
+# 🎭 Core AWS Service Analogies (Multi-Domain Reference)
 
-This table helps differentiate the core purpose of key pre-trained AI services (D1.2).
+This table helps differentiate the core purpose of key pre-trained AI services that appear across multiple domains of the exam.
 
 | AWS Service | Analogy | Core Functionality |
 | :--- | :--- | :--- |
