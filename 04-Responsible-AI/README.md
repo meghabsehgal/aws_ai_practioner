@@ -4,8 +4,8 @@ This domain covers the critical principles and practices needed to ensure AI sys
 
 ## Files in this Domain:
 
-* [cite_start]**`4.1-Ethics-and-Bias.md`**: Covers features of responsible AI, identifying bias, legal risks (IP infringement, hallucinations), and mitigation tools like SageMaker Clarify and Amazon A2I[cite: 180, 184, 187].
-* [cite_start]**`4.2-Explainable-AI.md`**: Defines transparency and explainability, identifies tools (SageMaker Model Cards), and discusses the tradeoff between safety and interpretability[cite: 193, 194, 195].
+* **`4.1-Ethics-and-Bias.md`**: Covers features of responsible AI, identifying bias, legal risks (IP infringement, hallucinations), and mitigation tools like SageMaker Clarify and Amazon A2I[cite: 180, 184, 187].
+* **`4.2-Explainable-AI.md`**: Defines transparency and explainability, identifies tools (SageMaker Model Cards), and discusses the tradeoff between safety and interpretability[cite: 193, 194, 195].
 
 ## Key Focus Areas:
 

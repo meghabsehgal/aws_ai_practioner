@@ -4,9 +4,9 @@ This domain focuses on the core concepts, architecture, capabilities, limitation
 
 ## Files in this Domain:
 
-* [cite_start]**`2.1-GenAI-Concepts.md`**: Covers foundational concepts (tokens, embeddings, transformer-based LLMs, foundation models) and the FM lifecycle[cite: 125, 127].
-* [cite_start]**`2.2-GenAI-Limitations.md`**: Describes the advantages and disadvantages of GenAI (hallucinations, nondeterminism) and factors for model selection[cite: 130, 131, 132].
-* [cite_start]**`2.3-GenAI-AWS-Infra.md`**: Identifies AWS services (Bedrock, SageMaker JumpStart, Amazon Q) and describes the cost tradeoffs and infrastructure advantages[cite: 139, 142].
+* **`2.1-GenAI-Concepts.md`**: Covers foundational concepts (tokens, embeddings, transformer-based LLMs, foundation models) and the FM lifecycle[cite: 125, 127].
+* **`2.2-GenAI-Limitations.md`**: Describes the advantages and disadvantages of GenAI (hallucinations, nondeterminism) and factors for model selection[cite: 130, 131, 132].
+* **`2.3-GenAI-AWS-Infra.md`**: Identifies AWS services (Bedrock, SageMaker JumpStart, Amazon Q) and describes the cost tradeoffs and infrastructure advantages[cite: 139, 142].
 
 ## Key Focus Areas:
 
