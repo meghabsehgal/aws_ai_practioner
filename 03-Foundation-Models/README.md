@@ -1,13 +1,16 @@
-# 👑 Domain 3: Foundation Model Customization (28% Exam Weight)
+# 👑 Domain 3: Applications of Foundation Models (28% Exam Weight)
 
-This is the **highest weighted domain** on the exam. It focuses exclusively on the methods used to adapt Foundation Models (FMs) to specific business needs, primarily using Amazon Bedrock.
+This is the **highest weighted domain** on the exam. It covers model selection, prompt engineering, customization methods (RAG/Fine-Tuning), the training process, and evaluation.
 
 ## Files in this Domain:
 
-* **`3.2-RAG-and-FineTuning.md`**: Covers the core methods of model customization: **Retrieval Augmented Generation (RAG)**, **Fine-Tuning**, and effective **Prompt Engineering**. This file details the difference between modifying the model's weights (Fine-Tuning) and grounding it with external data (RAG).
+* [cite_start]**`3.1-Prompt-Engineering.md`**: The existing file name (which must cover Model Selection and Prompt Engineering)[cite: 144, 157].
+* [cite_start]**`3.2-RAG-and-FineTuning.md`**: Compares the cost and effort tradeoffs of RAG and Fine-Tuning[cite: 154].
+* [cite_start]**`3.3-FM-Training-Process.md`**: Describes pre-training, instruction tuning, and the data preparation for fine-tuning, including RLHF[cite: 163, 166, 168].
+* [cite_start]**`3.4-FM-Evaluation-Metrics.md`**: Covers evaluation approaches and metrics like ROUGE and BLEU[cite: 172, 175].
 
 ## Key Focus Areas:
 
-* Differentiating the **cost, effort, and longevity** of RAG vs. Fine-Tuning.
-* Understanding the components of **RAG** (Retriever, Generator, Vector Store).
-* The principles of effective **Prompt Engineering**.
+* The cost and complexity tradeoffs between RAG and Fine-Tuning.
+* The purpose and application of Few-Shot and Chain-of-Thought prompting.
+* Model evaluation metrics (ROUGE, BLEU) and their relation to business value.

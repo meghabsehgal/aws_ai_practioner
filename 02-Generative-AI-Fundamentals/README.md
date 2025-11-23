@@ -1,14 +1,15 @@
-# ✨ Domain 2: Generative AI Fundamentals (24% Exam Weight)
+# ✨ Domain 2: Fundamentals of Generative AI (24% Exam Weight)
 
-This is one of the highest weighted domains on the exam, focusing on the core concepts, architecture, and practical applications of Foundation Models (FMs) accessed via Amazon Bedrock.
+This domain focuses on the core concepts, architecture, capabilities, limitations, and the AWS services used to build Generative AI applications.
 
 ## Files in this Domain:
 
-* **`2.1-GenAI-Concepts.md`**: Covers FMs, the **Transformer architecture**, the **Attention Mechanism**, and the difference between Generative and Discriminative AI.
-* **`2.2-GenAI-UseCases.md`**: Explores real-world applications of Generative AI, including summarization, code generation (**Amazon CodeWhisperer**), image creation, and RAG-based Q&A.
+* [cite_start]**`2.1-GenAI-Concepts.md`**: Covers foundational concepts (tokens, embeddings, transformer-based LLMs, foundation models) and the FM lifecycle[cite: 125, 127].
+* [cite_start]**`2.2-GenAI-Limitations.md`**: Describes the advantages and disadvantages of GenAI (hallucinations, nondeterminism) and factors for model selection[cite: 130, 131, 132].
+* [cite_start]**`2.3-GenAI-AWS-Infra.md`**: Identifies AWS services (Bedrock, SageMaker JumpStart, Amazon Q) and describes the cost tradeoffs and infrastructure advantages[cite: 139, 142].
 
 ## Key Focus Areas:
 
-* Understanding **Tokenization** and **Embeddings**.
-* The versatility of FMs across different modalities (text, vision, code).
-* Identifying appropriate **AWS services** for specific generative tasks.
+* Understanding Tokenization, Embeddings, and Vectors.
+* Recognizing risks like Hallucinations and Inaccuracy.
+* Cost analysis for token-based versus provisioned throughput pricing.
